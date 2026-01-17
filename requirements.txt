@@ -1,0 +1,7 @@
+jupyter
+pytest
+pandas
+sqlalchemy
+psycopg2-binary   # optional, for Postgres
+great_expectations
+dbt-core           # optional, only if you plan to use dbt
